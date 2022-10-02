@@ -1,7 +1,6 @@
 
 ### Сборка проекта
-Build project: mvn clean install
-To run the project: run 'CucumberTestRunner.class'
+- Build project: mvn clean install -Dtest=CucumberTestRunner
 
 ### Технологии
 - Java 11
